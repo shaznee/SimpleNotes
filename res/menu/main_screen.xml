@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.shaznee.simplenotes.MainScreen" >
+
+    <item
+        android:id="@+id/action_create"
+        android:orderInCategory="100"
+        android:showAsAction="always|withText"
+        android:title="@string/action_create"
+        android:icon="@drawable/ic_action_create_note"/>
+
+</menu>

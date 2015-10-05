@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Notes</string>
+    <string name="action_create">create</string>
+    <string name="empty_text">No notes to display</string>
+    <string name="title_activity_note_editor">Note Editor</string>
+    <string name="delete">Delete</string>
+
+</resources>
